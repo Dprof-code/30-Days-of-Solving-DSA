@@ -70,4 +70,4 @@ https://youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&si=fVTPpwOW
 
 ## Happy Coding! 🎉
 
-Join our coding community and let's level up together! Feel free to connect on [Whatsapp Group](https://chat.whatsapp.com/H6diiiNI4mlH3Fx2aBPknL) and share your progress. You can also share your progress on any social media platform of your choice  using this hashtag: #30DaysOfDSAChallenge Happy coding! 💻🌟
+Join our coding community and let's level up together! Feel free to connect on [Whatsapp Group](https://chat.whatsapp.com/H6diiiNI4mlH3Fx2aBPknL)  https://chat.whatsapp.com/H6diiiNI4mlH3Fx2aBPknL/ and share your progress. You can also share your progress on any social media platform of your choice  using this hashtag: #30DaysOfDSAChallenge Happy coding! 💻🌟
