@@ -56,7 +56,18 @@ Welcome to the 30 Days of DSA Challenge! 🚀 This month-long coding journey is 
 ## Resources
 
 - feel free to add links to resources here.
+- [https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=ghm](GeeksForGeeks)
+
+https://youtu.be/BBpAmxU_NQo?si=ApriK_FbllTPgloa
+
+https://youtu.be/qp8u-frRAnU?si=ZHsALF8yjciC4bOo
+
+https://youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&si=itTh2AsxwYwiS8EQ
+
+https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&si=L7QfJPPg1d8vjfSd
+
+https://youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&si=fVTPpwOWqVpdWnBG
 
 ## Happy Coding! 🎉
 
-Join our coding community and let's level up together! Feel free to connect on [](Whatsapp) and share your progress. You can also share your progress on any social media platform of your choice using this hashtag: #30DaysOfDSAChallenge Happy coding! 💻🌟
+Join our coding community and let's level up together! Feel free to connect on [https://chat.whatsapp.com/H6diiiNI4mlH3Fx2aBPknL](Whatsapp) and share your progress. You can also share your progress on any social media platform of your choice using this hashtag: #30DaysOfDSAChallenge Happy coding! 💻🌟
